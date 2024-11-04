@@ -1,64 +1,67 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+## About MEDICURE
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<a href="https://github.com/rabbihusenroki">Khuj</a> is a comprehensive job directory website designed to connect employers with job seekers efficiently. The platform offers an intuitive interface for both administrators and users, facilitating easy management of job postings, applications, and company profiles.
 
-## About Laravel
+```diff
++ Requests: 
++ 1. Kindy give us a star in github, if you like/clone our project.
+```
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Screenshots
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Home
+![127 0 0 1_8000_ (1)](https://github.com/rabbihusenroki/khuj/blob/main/public/uploads/khuj.png)
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Key Features
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+For Admin:
 
-## Laravel Sponsors
+●	Customization:
+    ● Change the logo, favicon, and theme color.
+    ● Edit top bar and footer information.
+    ● Control homepage content.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+●	Content Management:
+    ● Create, edit, and delete blog categories and posts.
+    ● Manage job categories, locations, experiences, and types.
+    ● Oversee company profiles and candidate profiles, with the ability to delete them.
 
-### Premium Partners
+●	Communication:
+    ● Send emails to subscribers.
+    ● Manage advertisements on job and company listing pages.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
 
-## Contributing
+For Company:
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+●	Account Management:
+    ● Free account creation and login with password recovery options.
+    ● Update profile information.
 
-## Code of Conduct
+●	Job Management:
+    ● Create, edit, and delete job listings.
+    ● Purchase and renew packages using PayPal and Stripe.
+    ● Review candidate lists and approve or reject applicants.
+    ● Highlight job postings as featured or urgent.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
+For Candidate:
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+●	Account Management:
+    ● Free account creation with password recovery options.
+    ● Update profile information and manage educational and job experience.
+
+●	Job Search and Application:
+    ● Apply only to available job vacancies.
+    ● Bookmark jobs for future reference.
+    ● Search for jobs by category, location, title, and type.
+    
+
+## Please note that all features of this project are not free or not included in this source code.
+
+## Support
+For contribution and customization supports, kindly contact us through the Email ID rabbihusenroki@gmail.com
 
 ## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Khuj. is open-source software licensed under the [MIT License](LICENSE).
