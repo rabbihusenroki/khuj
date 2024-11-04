@@ -76,17 +76,7 @@
             </li>
         </ul>
     </li>
-    <li><strong>Technologies Used</strong>
-        <ul>
-            <li>Laravel</li>
-            <li>Vue.js</li>
-            <li>HTML/CSS</li>
-            <li>JavaScript</li>
-            <li>PayPal API</li>
-            <li>Stripe API</li>
-        </ul>
-    </li>
-</ul>
+   </ul>
     
 
 ## Please note that all features of this project are not free or not included in this source code.
